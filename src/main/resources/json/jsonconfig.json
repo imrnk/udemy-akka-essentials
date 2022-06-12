@@ -1,0 +1,6 @@
+{
+  "key" : "RTJVM",
+   "akka" : {
+     "loglevel" : "DEBUG"
+   }
+}
